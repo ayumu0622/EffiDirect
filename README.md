@@ -1,6 +1,6 @@
-# Welcome to the Personal Project - EffiDirect: Boosting Direct Marketing Efficiency for Sustainable Investments
+# Welcome to the Personal Project - [EffiDirect: Boosting Direct Marketing Efficiency for Sustainable Investments](https://ayumu0622.github.io/EffiDirect_Boosting_Direct_Marketing_Efficiency_for_Sustainable_Investments/)
 
-
+## Access this project from [here](https://ayumu0622.github.io/EffiDirect_Boosting_Direct_Marketing_Efficiency_for_Sustainable_Investments/)
 Hello! I'm Ayumu Justin Ueda, a Data Science student at UC Berkeley. You can find my profile on (https://www.linkedin.com/in/ayumu-ueda-ab1879224/).
 
 In this project, I'm serving as a data scientist at an investment company, tasked with enhancing the effectiveness of our direct marketing for our new sustainable energy fund. Before joining the company, they attempted to promote a different type of fund to customers. I have been provided with data records detailing each customer's age, job, education, etc., along with whether they purchased those fund through our direct marketing efforts.
